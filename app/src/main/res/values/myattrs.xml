@@ -7,5 +7,6 @@
         <attr name="stopX" format="float" />
         <attr name="stopY" format="float" />
         <attr name="circleSize" format="float"/>
+        <attr name="text" format="string"/>
     </declare-styleable>
 </resources>
